@@ -1,2 +1,2 @@
-Hello from feature-edit
+Hello from feature-conflict
 Second Line
